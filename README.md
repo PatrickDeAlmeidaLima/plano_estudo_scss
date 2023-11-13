@@ -48,8 +48,3 @@ Este é um projeto dedicado ao aprendizado e domínio do SCSS (Sass), uma extens
 ### Semana 12: Projeto Final
 - Desenvolva um projeto final que destaque suas habilidades avançadas em SCSS.
 - Aplique todas as técnicas aprendidas ao longo do curso.
-
-## Instalação do Compilador SCSS
-
-```bash
-npm install -g node-sass
